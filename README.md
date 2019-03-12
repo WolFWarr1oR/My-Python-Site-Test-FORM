@@ -1,5 +1,6 @@
 # My Python Site-Test (FORM)
 
+[![Build Status](https://travis-ci.com/WolFWarr1oR/My-Python-Site-Test-FORM.svg?branch=master)](https://travis-ci.com/WolFWarr1oR/My-Python-Site-Test-FORM)
 
 ### ENGLISH:
 This is my site-test. Just Form.

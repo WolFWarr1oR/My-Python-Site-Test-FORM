@@ -1,9 +1,9 @@
 # My Python Site-Test (FORM)
 
 EXAMPLES:
-![EXAMPLE_ENG]("/examples/EXAMPLE ENG.png")
+![EXAMPLE_ENG](examples/EXAMPLE_ENG.png)
 
-![EXAMPLE_RUS]("/examples/EXAMPLE RUS.png")
+![EXAMPLE_RUS](examples/EXAMPLE_RUS.png)
 
 ENGLISH:
 This is my site-test. Just Form.

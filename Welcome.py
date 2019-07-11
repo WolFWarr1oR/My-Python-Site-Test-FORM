@@ -1,4 +1,3 @@
-# coding: utf8
 #!/usr/bin/env python3
 
 print("Content-type: text/html")
